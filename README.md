@@ -16,6 +16,6 @@ How to use:
 2. run in terminal with admin rules: 
   pip install selenium
   pip install requests
-3. download chromedriver and put them to folder with script.py
+3. download chromedriver and put it to folder with script.py
 4. open Undetectable browser, create few profiles and choose folder with name "test" for them.
 5. run in terminal: python script.py
