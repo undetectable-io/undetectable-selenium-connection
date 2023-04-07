@@ -13,9 +13,17 @@ This script will start Undetectable profiles that stored in folder "test" one by
 
 How to use:
 1. Install Python (you can download it from https://www.python.org/)
-2. run in terminal with admin rules: 
+2. run terminal with admin rules and enter: 
+
+```
   pip install selenium
   pip install requests
+```
+
 3. download chromedriver and put it to folder with script.py
-4. open Undetectable browser, create few profiles and choose folder with name "test" for them.
-5. run in terminal: python script.py
+4. open Undetectable browser, create few profiles and choose folder with name "test" for them
+5. enter in terminal: 
+
+```
+  python script.py
+```
