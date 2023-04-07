@@ -7,5 +7,13 @@ You can download and try Undetectable browser for free from: https://undetectabl
 
 We recommend to use our webdriver that you can download from link: 
 https://undetectable.io/download/chromedriver.exe
+You need to save this file in folder with script.py.
 
 This script will start Undetectable profiles that stored in folder "test" one by one and open few sites in these profiles. 
+
+How to use:
+1. Install Python
+2. run in terminal: pip install selenium
+3. download chromedriver and put them to folder with script.py
+4. open Undetectable browser, create few profiles and choose folder with name "test" for them.
+5. run in terminal: python script.py
