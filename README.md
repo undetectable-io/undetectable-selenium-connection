@@ -12,8 +12,8 @@ You need to save this file in folder with script.py.
 This script will start Undetectable profiles that stored in folder "test" one by one and open few sites in these profiles. 
 
 How to use:
-1. Install Python
-2. run in terminal: 
+1. Install Python (you can download it from https://www.python.org/)
+2. run in terminal with admin rules: 
   pip install selenium
   pip install requests
 3. download chromedriver and put them to folder with script.py
