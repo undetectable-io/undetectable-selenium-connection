@@ -12,6 +12,7 @@ You need to save this file in folder with script.py.
 This script will start Undetectable profiles that stored in folder "test" one by one and open few sites in these profiles. 
 
 <h1>How to use:</h1>
+
 1. Install Python (you can download it from https://www.python.org/)
 2. run terminal with admin rules and enter: 
 
