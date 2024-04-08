@@ -24,7 +24,7 @@ for key, value in list_response.items(): # Loop through the list of profiles and
                 continue
             if debug_port: # We check if the browser has a connection port (WebEngine profiles doesnt have ports, so we close them immediately)
                 chrome_options.debugger_address = f'{address}:{debug_port}'
-                driver = webdriver.Chrome(service=ser, options=chrome_options, executable_path=chrome_driver_path)
+                driver = webdriver.Chrome(service=ser, options=chrome_options)
                 driver.get("https://whoer.net/") # Open whoer.net in active tab
                 driver.switch_to.new_window('tab') # Create a new tab and switch to it
                 driver.get(url='https://browserleaks.com/js') # Open browserleaks.com/js in active tab
