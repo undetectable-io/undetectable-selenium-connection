@@ -3,7 +3,8 @@
 How to start Undetectable profiles with API and connect them with Selenium using Python
 
 With that code you can use Selenium with Undetectable browser profiles. 
-You can download and try Undetectable browser for free from: [Undetectable Browser](https://go.undetectable.io/gh)
+
+You can download app and try for free from: [Undetectable Browser](https://go.undetectable.io/gh)
 
 We recommend to use our webdriver that you can download from link: 
 https://undetectable.io/download/chromedriver.exe
